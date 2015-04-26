@@ -7,4 +7,6 @@ The warmup problems include:
 - finding a random solution to a game of Marble Solitaire
 - determining if a solution exists to a game of Dominosa
 
+All problems are implemented in recursionproblems.cpp.
+
 Full spec is included in the repository under 'Assignment_03_Recursion.pdf' on pages 1-9.
